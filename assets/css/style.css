@@ -75,11 +75,9 @@ nav {
     display: block;
 }
 
-/* Hides the Nav checkbox 
 #nav-toggle {
     display: none;
 }
-*/
 
 .nav-toggle-label {
     font-size: 2rem;
